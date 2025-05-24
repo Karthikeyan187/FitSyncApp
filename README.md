@@ -29,7 +29,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Karthikeyan187/FitSyncApp.git
 cd <repository-folder>
 ```
 
@@ -86,7 +86,5 @@ In the `client` directory, you can run:
  
 Feel free to contribute or raise issues to improve FitSync!
 
-**To Clone the repo:**
-   ```bash
-   git clone https://github.com/Karthikeyan187/FitSyncApp.git
+
 
