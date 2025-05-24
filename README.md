@@ -85,3 +85,8 @@ In the `client` directory, you can run:
  
  
 Feel free to contribute or raise issues to improve FitSync!
+
+**To Clone the repo:**
+   ```bash
+   git clone https://github.com/Karthikeyan187/FitSyncApp.git
+
